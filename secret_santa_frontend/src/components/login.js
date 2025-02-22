@@ -64,7 +64,7 @@ const Login = ({ setUser }) => {
           <a href="#">
             <img src="/assets/images/2.png" className="sign-favicon-a ht-40" alt="logo" />
           </a>
-          <h1 className="main-logo1 ms-1 me-0 my-auto tx-28">PostVibe</h1>
+          <h1 className="main-logo1 ms-1 me-0 my-auto tx-28">Santa Game</h1>
         </div>
         <h2>Welcome back!</h2>
         <p>Please sign in to continue.</p>
